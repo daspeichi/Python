@@ -14,7 +14,7 @@ for i in range(1,5):
 print("Finish")
 
 
-'''
+"""
 for i in range(1,3):
     for a in range(1,i+1):
         print(a,end='')
@@ -24,4 +24,4 @@ print("Finish")
 # i => [1,2]
   a => (1,1+1) => (1,2) => 1 (終止值不算)
     => (1,2+1) => (1,3) => 12 
-'''
+"""
