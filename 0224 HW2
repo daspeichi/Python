@@ -5,7 +5,7 @@ Created on Sun Mar  7 18:44:34 2021
 
 @author: ElishaYi
 """
-
+#輸入迴圈次數，計算數值中為偶數的加總，最後印出加總的值
 
 a=0
 number = int(input("請輸入次數:"))
